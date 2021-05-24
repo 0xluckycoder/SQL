@@ -1,3 +1,5 @@
+-- Associative ER diagram
+
 CREATE TABLE customer (
     id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
     name VARCHAR(20)
